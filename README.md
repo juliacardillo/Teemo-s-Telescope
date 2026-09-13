@@ -1,4 +1,4 @@
-
+This repository is to demonstrate how I 3D-modeled Teemo's telescope, to be printed as a real-life cosplay prop. 
 
 https://github.com/user-attachments/assets/487b7d58-3498-4d52-ae83-e5e45f6feffb
 
