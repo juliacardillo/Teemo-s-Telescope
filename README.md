@@ -8,5 +8,5 @@ https://github.com/user-attachments/assets/66beffa1-7a85-4393-927a-c89cdd39f1d3
 https://github.com/user-attachments/assets/fbda3cb3-1121-4c46-94db-61089db53eb2
 
 * Printing the file on my 3D printer:
-* 
+  
 https://github.com/user-attachments/assets/487b7d58-3498-4d52-ae83-e5e45f6feffb
